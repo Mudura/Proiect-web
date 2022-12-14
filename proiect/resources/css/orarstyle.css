@@ -1,0 +1,183 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.font-24{
+    font-size: 24px;
+}
+
+.col-lg-4 {
+    flex: 0 0 auto;
+    width:31.8%!important;
+}
+
+.orange{
+    color: orange;
+}
+
+.nav-icons{
+    color: white;
+    justify-content: right;
+    padding-right: 3%;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+}
+
+.nav-search{
+    justify-content: center;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.nav-logo{
+    color: white;
+    display: flex;
+    padding-left: 3%;
+    padding-top: 6px;
+
+}
+
+.navigation{
+    background-color: #212121;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.pr-2{
+    padding-right: 0.5rem;
+}
+
+.box-shape{
+    border-radius: 0.5rem;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Note{
+    background-color: cadetblue;
+}
+
+.Orar{
+    background-color:coral;
+
+}
+
+.Financiar{
+    background-color:darkkhaki;
+}
+
+.position-right{
+    float: right;
+}
+
+.Notebook{
+    background-image: url("../../resources/img/notes.jpg");
+    background-size: cover;
+    color: black;
+}
+
+.Repartizare{
+    background-color: plum;
+    margin-left: 30px;
+}
+
+.noutati{
+    background-image: url("../../resources/img/news.jpg");
+    background-color: rgba(0, 0, 0, 1);
+    background-size: cover;
+    color: black;
+    margin-left: 30px;
+}
+
+.date{
+    background-color: plum;
+    
+}
+
+#userInfoModal{
+    background-color:cornsilk;
+    border-radius: 0.5rem;
+    border: 2px solid black;
+    padding: 10px;
+    position: absolute;
+    top: 8%;
+    right: 1%;
+    color: black;
+}
+
+.disconnect-text{
+    color: blue;
+    text-decoration: underline;
+}
+
+.user-greeting{
+    font-size: 18px;
+}
+
+.disconnect-text{
+    font-size: 14px;
+    float: right;
+    margin: 0;
+}
+
+#notificationInfoModal{
+    background-color:cornsilk;
+    border-radius: 0.5rem;
+    border: 2px solid black;
+    padding: 10px;
+    position: absolute;
+    top: 8%;
+    right: 1%;
+    color: black;
+}
+
+.notification-text{
+    color: gray;
+    margin: 0;
+}
+
+.notification-title{
+    margin: 0;
+}
+
+.hr-notification{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+
+
+    
+
+table, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+   margin-bottom: 130px;
+}
+
+ td 
+{border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 12px;
+
+}
+
+
+body {
+border-bottom:5px solid red;
+border-bottom-color: #34363E;
+border-bottom-width: 50px;
+
+}
+
+
